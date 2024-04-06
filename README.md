@@ -22,7 +22,8 @@ coding skills by building realistic projects.
 
 ### Requirements
 
-Build out this QR code component and get it looking as close to the design as possible.
+Build out this QR code component and get it looking as close to the design as
+possible.
 
 ### Tech Stack:
 
@@ -33,7 +34,7 @@ Build out this QR code component and get it looking as close to the design as po
 
 - Solution URL:
   [FrontendMentor Challenge Hub](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
-- Live Site URL: [GitHub Pages](grifano.github.io/fm-01-qr-code/)
+- Live Site URL: [GitHub Pages](https://grifano.github.io/fm-01-qr-code/)
 
 ## Author
 
