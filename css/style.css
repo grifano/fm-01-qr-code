@@ -118,11 +118,11 @@ main {
 
 /*** Attribution footer ***/
 .attribution {
+  color: var(--dark-navy);
   position: fixed;
   width: 100%;
   bottom: 0;
   left: 0;
-  border-radius: 8;
   background-color: var(--white);
   padding: 16px;
   text-align: center;
