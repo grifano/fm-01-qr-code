@@ -89,6 +89,7 @@ main {
   align-items: center;
   justify-content: center;
   height: 100svh;
+  padding-bottom: 53px;
 }
 .qr-component {
   max-width: 320px;
