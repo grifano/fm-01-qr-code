@@ -33,7 +33,7 @@ possible.
 ### Links
 
 - Solution URL:
-  [FrontendMentor Challenge Hub](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
+  [FrontendMentor Solution Hub](https://www.frontendmentor.io/solutions/qrcode-component-clean-htmlandcss-WeW2xj8Dk5)
 - Live Site URL: [GitHub Pages](https://grifano.github.io/fm-01-qr-code/)
 
 ## Author
